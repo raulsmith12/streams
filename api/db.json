@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "Stream",
+      "description": "Streamy",
+      "userId": "100201121835101672627",
+      "id": 1
+    },
+    {
+      "title": "Second Stream",
+      "description": "This should be fun",
+      "userId": "118100979936529902433",
+      "id": 2
+    },
+    {
+      "title": "Owl's Stream",
+      "description": "I created this",
+      "userId": "100201121835101672627",
+      "id": 3
+    },
+    {
+      "title": "GalacticBlue",
+      "description": "We created this",
+      "userId": "118100979936529902433",
+      "id": 4
+    },
+    {
+      "title": "Streamy",
+      "description": "Hello there",
+      "userId": "118100979936529902433",
+      "id": 5
+    }
+  ]
+}
